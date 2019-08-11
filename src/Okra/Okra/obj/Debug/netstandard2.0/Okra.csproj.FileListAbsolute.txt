@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\bin\Debug\netstandard2.0\Okra.deps.json
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\bin\Debug\netstandard2.0\Okra.dll
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.AssemblyInfo.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\bin\Debug\netstandard2.0\Okra.pdb
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.dll
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Okra.pdb
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Views\AnimeDetails.xaml.g.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Views\FavoritesPage.xaml.g.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra\obj\Debug\netstandard2.0\Views\AnimesView.xaml.g.cs

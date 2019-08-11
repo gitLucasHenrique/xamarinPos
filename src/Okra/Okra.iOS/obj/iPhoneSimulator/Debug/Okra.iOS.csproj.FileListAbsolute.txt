@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\Okra.iOS.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\lucas\xa\xamarin-okra-development\src\Okra\Okra.iOS\obj\iPhoneSimulator\Debug\Okra.iOS.csproj.CoreCompileInputs.cache

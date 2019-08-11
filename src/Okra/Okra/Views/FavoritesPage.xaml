@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Okra.Views.FavoritesPage">
+    <ListView
+        CachingStrategy="RecycleElement"
+        HasUnevenRows="True"
+        SelectionMode="None"
+        RefreshControlColor="Accent"
+        ItemsSource="{Binding AnimesFromDB}">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="32">
+                        <Label Text="{Binding title}"
+                               FontSize="Medium"
+                               TextColor="#000"
+                               FontAttributes="Bold"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding type}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding rating}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding year}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding num_seasons}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

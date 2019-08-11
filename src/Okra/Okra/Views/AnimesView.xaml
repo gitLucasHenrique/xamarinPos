@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:b="clr-namespace:Prism.Behaviors;assembly=Prism.Forms"
+             mc:Ignorable="d"
+             x:Class="Okra.Views.AnimesView">
+    <ListView
+        CachingStrategy="RecycleElement"
+        HasUnevenRows="True"
+        SelectionMode="None"
+        RefreshControlColor="Accent"
+        ItemsSource="{Binding Animes}">
+        <ListView.Behaviors>
+            <b:EventToCommandBehavior EventName="ItemTapped" 
+                                      Command="{Binding NCGoAnime}"
+                                      CommandParameter="MyParameter" />
+        </ListView.Behaviors>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="32">
+                        <Label Text="{Binding title}"
+                               FontSize="Medium"
+                               TextColor="#000"
+                               FontAttributes="Bold"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding year}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                        <Label Text="{Binding genresConcat}"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

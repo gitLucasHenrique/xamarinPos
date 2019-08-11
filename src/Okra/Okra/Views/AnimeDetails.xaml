@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Okra.Views.AnimeDetails">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Favoritar"
+                     Command="{Binding Favoritar}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Padding="32">
+            <Label Text="Anime name"
+                               FontSize="Medium"
+                               TextColor="#000"
+                               FontAttributes="Bold"
+                               LineBreakMode="WordWrap" />
+            <Label Text="Anime year"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+            <Label Text="Anime type"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+            <Label Text="Anime num seasons"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+            <Label Text="Anime rating"
+                               FontSize="Small"
+                               LineBreakMode="WordWrap" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
